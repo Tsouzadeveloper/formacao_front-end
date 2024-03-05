@@ -1,0 +1,19 @@
+
+A anatomia das tags
+
+- O Elemento principal do HTML é a tag.
+- Toda teag tem um nome e um propósito, a tag p serve poara parágrafos.
+- Nós precisamos envolver uma tag com sinais de menor e maior, exemplo: <p> .
+- E no meio colocar um conteúdo: <p>TEXTO</p> .
+- Isso vai criar um elemento de parágrafo, quase todas as tags funcionam assim, porém existem tags que não possui o fechamento, como por exemplo: <br>, ele pula uma linha.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A estrutura do HTML
+
+- Todos os projetos de HTML tem uma estrutura base, ou sejam precisamos criar algumas tags.
+- DOCTYPE: Está tag declara a versão do HTML.
+- html: Está tag envolve todo o código de HTML.
+- head: Está tag colocamos todas as configuraçõies de um site, como a importação do CSS e o título da página (meta tags).
+- body: É aonde está todos os elementos visíveis.
