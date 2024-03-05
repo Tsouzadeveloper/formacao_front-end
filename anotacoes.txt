@@ -1,3 +1,49 @@
+
 O que é HTML?
 
-- HTML não é uma 
+- HTML não é uma linguagem de programação, e sim de marcação.
+- Utilizamos para estruturar páginas web, criando elemento de texto, inserindo imagens, lista e formulários.
+- É o esqueleto de qualquer aplicação web.
+- Nós não precisamos de um software para compilar HTML.
+- Podemos apenas abrir um arquivo .html no navegador e executar a linguagem.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+O que é CSS?
+
+- CSS é a linguagem que utilizamos para estilizar um site.
+- Usamos em conjunto do HTMLK, a integração é super simples.
+- Sem o CSS todas as páginas seriam iguais, com apenas diferença no contéudo.
+- As regras de CSS são aplicadas aos elementos do HTML.
+- Podemos adicionar cores, mudar o tamanho de uma fonte, adicionar bordas aos elementos e muito mais!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A importância de um editor de código
+
+- Não precisamos de um editor para criar código de HTML e CSS.
+- Porém os editores são ótimas ferramentas para programação.
+- Nos ajudam com: estrutura de pastas, erros de sintaxe e highlight de sintaxe.
+- Além de terem recursos extras, como terminal integrado e extensões que podem ser adicionadas.
+- O meu preferido é o Visual Studio Code.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Nosso primeiro site
+
+- Primeiramente precisamos criar um arquivo com a extensão .html.
+- Podemos abrir o arquivo no navegador, sugiro o Chrome.
+- Neste arquivo podemos escrever código HTML ou simplesmente texto.
+- Vamos criar um e ver os resultados no navegador.
+
+-> Foi criado uma pasta 1_INTRO com o index.html
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
