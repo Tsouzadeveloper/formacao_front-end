@@ -17,3 +17,5 @@ A estrutura do HTML
 - html: Está tag envolve todo o código de HTML.
 - head: Está tag colocamos todas as configuraçõies de um site, como a importação do CSS e o título da página (meta tags).
 - body: É aonde está todos os elementos visíveis.
+
+Nessa seção realizamos a instalação da extensão do vscode chamada "Live Server" ela roda o arquivo html e css direto no browser simulando a maquina de hospedagem.
