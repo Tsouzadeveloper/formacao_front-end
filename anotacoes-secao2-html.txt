@@ -54,5 +54,37 @@ Tags sem conteúdo
 - Eles também introduzem o conceito de self closing tags, onde a tag não possui uma outra tag de fechamento.
 - Vamos ver na prática!
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Comentários no HTML
+
+- Comentários são utilizados para descrever como algo funciona no nosso código.
+- Explicar a outros programadores o que fizemos.
+- Os comentários não são exibidos na página.
+- Mas qualquer um que inspecionar o seu código, terá acesso aos comentários.
+- Vamos ver na prática!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Atributos
+
+- Atributos podem ser utilizados para adicionar funcionalidades as tags.
+- A tag a é responsavel por nos direcionar a uma nova página ou site.
+- Mas aonde vamos adicionar o endereço/URL?
+- Colocamos no atributo chamado href.
+- Um exemplo: <a href="https://www.google.com">Google</a>
+- Neste exemplo, ao clicar no link o usuário é redirecionado para o google.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Abrir nova aba
+
+- Com um atributo podemos fazer o link abrir em uma nova aba.
+- Isso é utilizado frequentemente para redirecionar a outro site.
+- Por exemplo: temos um link que leva a um e-commerce que não é nosso, não temos aquele domínio.
+- Então utilizamos o atributo trarget com o valor _blank.
+- Vamos ver na prática!
 
