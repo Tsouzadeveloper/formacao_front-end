@@ -19,3 +19,40 @@ A estrutura do HTML
 - body: É aonde está todos os elementos visíveis.
 
 Nessa seção realizamos a instalação da extensão do vscode chamada "Live Server" ela roda o arquivo html e css direto no browser simulando a maquina de hospedagem.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Títulos
+
+- Os títulos são conhecidos como headings.
+- Utilizamos principalmente para separar seções.
+- O nome da tag é h*, onde * pode ser um valor de 1 a 6.
+- O maior título é o h1, e também é o mais importante, colocamos apenas um por página.
+- A importância deve estar conectada com o propósito da nossa página, este assunto faz parte do HTML semântico, um tópico mais avançado.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Parágrafos
+
+- Utilizamos os parágrafos para inserir textos maiores.
+- A tag é <p>.
+- Cada parágrafo começa uma nova linha, e este comportamento acontece com todas as tags de bloco.
+- Temos várias tags de bloco, os títulos fazem parte deste grupo.
+- Vamos ver na prática!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tags sem conteúdo
+
+- Nós temos em HTML tags sem conteúdo.
+- Elas possuem recursos geralmente, como quebrar a linha.
+- Para este fim podemos utilizar a tag <br/>.
+- Para uma linha horizontal temos <hr/>.
+- Eles também introduzem o conceito de self closing tags, onde a tag não possui uma outra tag de fechamento.
+- Vamos ver na prática!
+
+
+
