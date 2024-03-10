@@ -88,3 +88,90 @@ Abrir nova aba
 - Então utilizamos o atributo trarget com o valor _blank.
 - Vamos ver na prática!
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Imagens no HTML
+
+- Nós podemos inserir imagens no nosso site com a tag img.
+- O caminho relativo até a imagem é inserido no atributo src.
+- Normalmente colocamos a imagem numa pasta chamada img ou assets, para fins de organização.
+- Nota: a imagem é uma self closing tag, sendo assim não precisa de outra tag para fecha-la.
+- Vamos ver na prática!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+O atributo alt
+
+- Nas tags de imagem temos um atributo chamado alt.
+- Nós inserimos nele um texto que descreve a imagem.
+- Todas as imagens deve ter este atributo configurado.
+- Este recurso é importante para acessibilidade, fazendo com que nosso siste seja melhor rankeado pelo google também.
+- Vamos ver na prática!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Listas não ordenadas
+
+- Listas são importantes para muitos fins nos sites.
+- Podemos até criar um menu a partir de uma lista.
+- As não ordenadas são criadas pela tag ul.
+- Cada item na lista é representado pela tag li.
+- Vamos ver na prática!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Listas ordenadas
+
+- Listas ordenadas são interessantes para quando há um procedimento ou passos a serem seguidos.
+- Exemplo: receita de algum alimento.
+- Agora utilizamos a tag ol.
+- E os itens continuam sendo a tag li.
+- Vamos ver na prática!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tabelas
+
+- Nós usamos tabelas para exibir dados que podem ser categorizados em colunas.
+- Tabelas são estruturas complexas no HTML, e não tão utilizadas.
+- Precisamos da tag table, isso cria a tabela.
+- E também um cabeçalho e um corpo.
+- cada linha é criada em uma tag tr, e os dados ficam em td.
+- No cabeçalho utilizamos a tag th.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A tag div
+
+- A tag div é utilizada para criar divisões/seções no nosso site.
+- Podemos criar elementos menores também, como cards.
+- O principal propósito é: encapsular elementos que estão conectados entre si.
+- Vamor ver na prática!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Criando a estrutura com vs Code
+
+- Podemos criar toda a estrutura básica do vs code com um simples comando.
+- Basta digita ! e pressionar o tab.
+- Vamos ver na prática!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DESAFIO DA SEÇÃO
+
+1- Criar a estrutura rapida do vs code.
+2- Criar um título.
+3- Colocar uma imagem.
+4- Criar um paragrafo falando sobre a imagem.
+5- Criar uma lista com 3 itens que possui na imagem.
+
+
