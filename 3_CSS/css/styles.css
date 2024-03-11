@@ -12,3 +12,40 @@ h3 {
 p {
     color:blue;
 }
+
+/* 7 - Algum comentário */
+/* Outro comentário */
+/* Para colocar o comentário rapido pode usar as teclas de atalho, exemplo: CTRL + ; */
+
+/* 8 - Classes */
+.paragraph{
+    background-color: #000;
+    color:aqua;
+    padding: 5px;
+}
+
+/* 9 - Ids */
+#exclusive-title{
+    background-color: purple;
+    color:yellow;
+    padding: 10px;
+    font-size: 40px;
+}
+
+/* 10 - Ordem das regras */
+h2 {
+    border-bottom: 2px solid red;
+}
+
+.titulo{
+    border-bottom: 4px solid blue;
+}
+
+#algum-titulo{
+    border-bottom: 6px solid green;
+}
+
+/* 11 - Nome de cores */
+.color-name {
+    color:crimson;
+}

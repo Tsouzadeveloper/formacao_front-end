@@ -104,3 +104,82 @@ Desafio 2
 2- Importe este arquivo no HTML.
 3- Estileza todos os h4 em alguma regra de CSS.
 4- Crie um h4 no HTML e veja as mudanças de CSS.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Comentários no CSS
+
+- Comentários do CSS são como os de HTML, utilizamos para descrever algo no código.
+- Caso o código seja inspecionado, os comentários também são exibidos.
+- A sintaxe é: /* alguma comentário */
+- Vamos ver na prática!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Classes e ids
+
+- Classes e ids são atributos de tags do HTML, mas estão diretamente relacionados ao CSS.
+- Podemos especificar elementos especificos com eles.
+- Ids são utilizados para elementos únicos.
+- E classes servem para um ou mais elementos, geralmente utilizadas em conjutos de elementos.
+- Veremos a utilização dos mesmos nos nossos projetos também.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Classes
+
+- As classes são inseridas através de um atributo de HTML.
+- O valor do atributo é o nome da classe, e também uma escolha nossa.
+- Por exemplo: temos um botão que aparece x vezes no nosso projeto, podemos colocar uma classe btn nele.
+- Ou seja, os padrões de estilo desses botões podem ser transmitidos através desta classe para os demais.
+- O seletor fica: .<nome_da_classe>
+- O  seletor de class é mais especifico que o seletor de tag.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+IDs
+
+- Os ids também são atributos do HTML.
+- Podemos escrever qualquer coisa como valor, será o nome do id.
+- Ids são únicos, ou seja, não repetimos o mesmo nome na mesma página.
+- O HTML não nos proíbe disso, mas é uma má prática e deve ser evitada.
+- O seletor fica: #<nome_do_id>
+- Vamos ver na prática!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A ordem dos seletores
+
+- Nós aprendemos sobre o seletor de id e classe.
+- E se a tag estiver com id e uma clsse, o que acontece?
+- Como nas maneiras de adicionar o CSS, temos tammbém uma ordem.
+- Que é: id > class > seletor de tag.
+- Então o id vai vencer de todos os outros, utilize isso ao seu favor.
+- Regras que não entram em conflitos serão aplicadas normalmente.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+As cores do CSS
+
+- Em CSS as cores são divididas em grupos, temos:
+- Nomes de cor: Como red ou blue, não são muito utilizadas.
+- RGB: Configuramos as tonalidades de red, green e blue.
+- Hexadecimal: Uma união de letras e números que podem criar uma cor, a maneira mais utilizada.
+- HSL: hue, saturation e lightness, mudando estes valores, temos uma cor.
+- Nas próximas aulas, abordaremos todos detalhadamente.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Nomes das cores
+
+- Nós utilizamos muito essa maneira até agora,mas em projetos reais não é tão empregada.
+- Pois ela nos limita a apenas as cores com nomes existentes.
+- No mundo real precisamos de mais possibilidades, para não limitar os designers.
+- O  nome da cor consiste na utilização do nome real da cor como valor da propriedade.
