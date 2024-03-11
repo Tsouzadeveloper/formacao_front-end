@@ -1,0 +1,21 @@
+
+Maneiras de adicionar CSS
+
+- Temos algumas maneiras de adicionar CSS ao HTML.
+- Inline: Quando os estilos são adicionado por um atributo = style.
+- Internal: Quando o CSS é adicionado na tag head.
+- External: Quando o CSS é adicionado através de um arquivos externo e depois importado no HTML pela tag link.
+- Vamos sempre optar pelo external CSS, quando houver a opção.
+- Isso vai orgazinar melhor nosso projeto.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A anatomia do CSS
+
+- Com CSS aplicamos CSS a um elemento ou mais.
+- Primeiramente devemos selecionar o elemento, isso pode ser feito através da tag do elemento.
+- Depois precisamos colocar as propriedades e os valores.
+- Se quisermos mudar a cor de algo, utilizamos: color: red; (cor vermelha)
+- Nome da propriedade, dois pontos, valor, ponto e virgula.
+
