@@ -10,11 +10,14 @@
             color: gold;
             font-size: 40px;
         }
-
     </style>
 
     <!-- 4 - External CSS -->
+    <!-- Cascading Style Sheets -->
     <link rel="stylesheet" href="css/styles.css"/>
+
+    <!-- 6 - Múltiplos arquivos de CSS -->
+    <link rel="stylesheet" href="css/lists.css"/>
 
 </head>
 <body>
@@ -35,6 +38,21 @@
 
     <!-- 4 - External CSS -->
     <h3>Eu fui estilizado pelo external css</h3>
-    
-</body>
+    <hr/>
+
+    <!-- 5 - Ordem do CSS -->
+    <p style="color:red;">Ordem do CSS</p> <!-- Como tem a tag p no internal css ela será subescrita pelo inline -->
+    <p>Ordem do CSS 2</p> <!-- Como a tag link foi declarada depois da tag style na head ela aplicará o estilo external css, pois não tenho regra inline -->
+    <p>Ordem do CSS 3</p> <!-- Invertendo a tag style e link da head, sendo assim quem aplicará o estilo é a internal css -->
+    <hr/>
+
+    <!-- 6 - Múltiplos arquivos de CSS -->
+    <ul>
+        <li>Banana</li>
+        <li>Maçã</li>
+        <li>Abacate</li>
+    </ul>
+
+
+ </body>
 </html>
