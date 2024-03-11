@@ -67,3 +67,40 @@ External CSS
 - E nós o importamos através da tag link.
 - As regras que estão no arquivo são aplicadas no HTML.
 - Vamos ver na prática.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ordem do CSS
+
+- O CSS é carregado a partir de uma ordem.
+- Se temos estilos misturados (inline, internal e external), qual será aplicado?
+- Todos eles, mas com a seguinte ordem: INLINE > INTERNAL = EXTERNAL > PADRÃO DO NAVEGADOR.
+- Esta regra funciona quando temos estilos em um mesmo elemento.
+- Interno e externo tem a mesma prioridade, a últimna regra ganha a "Corrida".
+- Exemplo: 
+
+Se eu tenho um color:red; no inline css e color:blue; no interno css e color:gold; no external css = a cor que vai ficar é red porque está no inline, caso não tenha a cor no
+inline vai prevalecer quem foi lido por ultimo, nesse caso se a tag style do internal está acima do link do external a cor irá ficar gold porque o ultimo a ser chamado foi a
+tag link apontando o external css. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Múltiplos arquivos de CSS
+
+- É possivel ter mais de uma folha de estilo no nosso projeto.
+- Precisamos apenas importar todas elas na tag head.
+- Os arquivos importados por último tem mais prioridade.
+- Está é uma boa prática, pois possibilita a divisão de CSS por páginas, por exemplo.
+- Vamos ver na prática!
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Desafio 2
+
+1- Crie um arquivo CSS chamado titles.css.
+2- Importe este arquivo no HTML.
+3- Estileza todos os h4 em alguma regra de CSS.
+4- Crie um h4 no HTML e veja as mudanças de CSS.
