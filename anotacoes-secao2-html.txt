@@ -2,7 +2,7 @@
 A anatomia das tags
 
 - O Elemento principal do HTML é a tag.
-- Toda teag tem um nome e um propósito, a tag p serve poara parágrafos.
+- Toda tag tem um nome e um propósito, a tag p serve para parágrafos.
 - Nós precisamos envolver uma tag com sinais de menor e maior, exemplo: <p> .
 - E no meio colocar um conteúdo: <p>TEXTO</p> .
 - Isso vai criar um elemento de parágrafo, quase todas as tags funcionam assim, porém existem tags que não possui o fechamento, como por exemplo: <br>, ele pula uma linha.
@@ -85,7 +85,7 @@ Abrir nova aba
 - Com um atributo podemos fazer o link abrir em uma nova aba.
 - Isso é utilizado frequentemente para redirecionar a outro site.
 - Por exemplo: temos um link que leva a um e-commerce que não é nosso, não temos aquele domínio.
-- Então utilizamos o atributo trarget com o valor _blank.
+- Então utilizamos o atributo target com o valor _blank.
 - Vamos ver na prática!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
