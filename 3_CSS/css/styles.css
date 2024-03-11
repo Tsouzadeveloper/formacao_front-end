@@ -1,7 +1,14 @@
+/* 4 - External CSS */
 body {
       padding-bottom: 500px;
 }
 
 h3 {
     color: green;
+}
+
+/* 5 - Ordem css */
+
+p {
+    color:blue;
 }
