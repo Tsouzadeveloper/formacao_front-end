@@ -27,4 +27,43 @@ Inliner CSS
 - O CSS inline pode ser adicionado sem selecionar o elemento, porque é um atributo diretamente inserido no mesmo.
 - O elemento já está selecionado!
 - O atributo style nos permite escrever regras de CSS.
-- Exemplo: style="color: red;"
+- Exemplo: 
+
+<h1 style="color: red;">TESTE</h1>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Múltiplas regras
+
+- Nós podemos adicionar várias regras de CSS.
+- Elas podem ser separadas por ponto e vírgula.
+- Então é possivel fazer uma união de estilos, dar um design melhor ao elemento.
+- Vamos ver na prática.
+- Exemplo:
+
+<h1 style="color: red; font-size: 50px; border-bottom: 1px solid red;">TESTE</h1>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Internal CSS
+
+- O CSS interno é uma técnica melhor que o inline, vamos colocar todos os estilos na tag head.
+- As regras precisam também estar entre a tag style.
+- E Através desta maneira é necessário selecionar o elemento alvo, exemplo:
+
+p {
+    color:red;
+} 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+External CSS
+
+- Para adicionar CSS com está técnica precisamos criar um arquivo .css.
+- Geralmente eles ficam na pasta chamada css.
+- E nós o importamos através da tag link.
+- As regras que estão no arquivo são aplicadas no HTML.
+- Vamos ver na prática.

@@ -4,6 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CSS</title>
+    <!-- 3 - Internal CSS -->
+    <style>
+        p {
+            color: gold;
+            font-size: 40px;
+        }
+
+    </style>
+
+    <!-- 4 - External CSS -->
+    <link rel="stylesheet" href="css/styles.css"/>
+
 </head>
 <body>
     <!-- 1 - Inline CSS -->
@@ -11,5 +23,18 @@
     <h1>Outro título - sem css inline</h1> <!-- Não vai pegar o css de cima, porque em cada tag precisa do atributo stype -->
     <h1 style="color: red;">Outro título 2</h1>
 
+    <hr/>
+    <!-- 2 - Múltiplas regras -->
+    <h1 style="color: purple; font-size: 50px; border-bottom: 1px solid red;">Mudar cor, tamanho da fonte e colocar uma border-bottom de 1px solid red</h1>
+
+    <!-- 3 - Internal CSS -->
+    <p>Eu fui estilizado pelo internal</p>
+    <p>Eu também</p>
+    <p>Eu também também</p>
+    <hr/>
+
+    <!-- 4 - External CSS -->
+    <h3>Eu fui estilizado pelo external css</h3>
+    
 </body>
 </html>
