@@ -19,3 +19,12 @@ A anatomia do CSS
 - Se quisermos mudar a cor de algo, utilizamos: color: red; (cor vermelha)
 - Nome da propriedade, dois pontos, valor, ponto e virgula.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Inliner CSS
+
+- O CSS inline pode ser adicionado sem selecionar o elemento, porque é um atributo diretamente inserido no mesmo.
+- O elemento já está selecionado!
+- O atributo style nos permite escrever regras de CSS.
+- Exemplo: style="color: red;"
