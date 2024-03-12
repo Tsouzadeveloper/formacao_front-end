@@ -49,3 +49,21 @@ h2 {
 .color-name {
     color:crimson;
 }
+
+/* 12 - Hexadecimal */
+.hex{
+    color: #002233;
+}
+
+.hex-2{
+    color: #2a3ab3;
+}
+
+/* 13 - mais sobre o hexadecimal */
+.simple-hex{
+    color: #333;
+}
+
+.simple-hex-2{
+    color: #A5F;
+}

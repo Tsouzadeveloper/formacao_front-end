@@ -183,3 +183,25 @@ Nomes das cores
 - Pois ela nos limita a apenas as cores com nomes existentes.
 - No mundo real precisamos de mais possibilidades, para não limitar os designers.
 - O  nome da cor consiste na utilização do nome real da cor como valor da propriedade.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+HEX / Hexadecimal
+
+- HEX ou Hexadecimal é a abordagem mais utilizada.
+- Basicamente temos que inserir 6 dígitos, precedidos de uma #.
+- Os dois primeiros representam o tom de vermelho, depois o de verde e por fim o azul.
+- Os valores vão de 0 a 9 e A a F.
+- O valor de #000000(ou #000) é a cor preta e #FFFFFF(ou #FFF) a cor branca.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mais sobre o HEX
+
+- Se um valor for repetido 6 vezes, podemos escrever a cor de forma mais simples.
+- No caso de #FFFFFF podemos reescrever com #FFF.
+- A mesma coisa vale para #112233, essa cor pode ser escrita como: #123.
+- Está é uma técnica muito utilizada.
+- Vamos ver na prática.
