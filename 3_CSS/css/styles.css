@@ -67,3 +67,12 @@ h2 {
 .simple-hex-2{
     color: #A5F;
 }
+
+/* 14 - RGB */
+.text-rgb{
+    color: rgb(200, 100, 100);
+}
+
+.text-rgb-2{
+    color: rgb(100,100,200);
+}
