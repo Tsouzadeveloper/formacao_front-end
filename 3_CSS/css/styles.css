@@ -76,3 +76,28 @@ h2 {
 .text-rgb-2{
     color: rgb(100,100,200);
 }
+
+/* 15 - RGBA */
+.rgba{
+    color: rgba(100,100,200, 0.3);
+}
+
+/* 16 - HSL */
+.hsl{
+    color: hsl(222, 60%, 50%);
+}
+
+.hsl-2{
+    color: hsl(250, 80%, 30%);
+}
+
+/* 17 - Background */
+.bg{
+    background-color: #000;
+    color: yellow;
+}
+
+.bg-2{
+    background-color: rgb(200,20,40);
+    color: #00eaff;
+}
